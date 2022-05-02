@@ -1,0 +1,22 @@
+{
+  "name": "kemono-paranoid",
+  "version": "1.0.0",
+  "description": "kemono.party electron app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L4Ph/Kemono-Paranoid.git"
+  },
+  "author": "L4Ph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L4Ph/Kemono-Paranoid/issues"
+  },
+  "homepage": "https://github.com/L4Ph/Kemono-Paranoid#readme",
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
